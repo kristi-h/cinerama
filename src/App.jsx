@@ -1,13 +1,13 @@
 import React from "react"
 import './style.css'
-import SearchMovie from "./components/searchMovie"
+import SearchMovies from "./components/SearchMovies"
 
 function App() {
   return (
     <>
       <div className='container'>
         <h1 className="title">Movie Search</h1>
-        <SearchMovie />
+        <SearchMovies />
       </div>
     </>
   )
