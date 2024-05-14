@@ -1,6 +1,6 @@
 import React from "react"
 import './style.css'
-import SearchMovies from "./components/SearchMovies"
+import SearchMovies from "./SearchMovies"
 
 function App() {
   return (
